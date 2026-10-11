@@ -1,4 +1,4 @@
-# Act 2.4 Lista Unidireccional de Aviones
+# Act_2.4 Lista Unidireccional de Aviones
 Este proyecto consiste en el desarrollo de un Tipo de Dato Abstracto (TDA) Lista Unidireccional en Java, utilizando nodos y una interfaz gráfica desarrollada con Java Swing en NetBeans.
 La lista permite administrar registros de aviones y realizar operaciones para insertar, eliminar, buscar y mostrar elementos. Cada nodo mantiene una referencia al siguiente nodo de la lista.
 
